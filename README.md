@@ -8,6 +8,8 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
+### Technologies Used
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,wasm)
 
 ![preview img](/img/portfilio-img.png)
 
