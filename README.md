@@ -9,5 +9,5 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 
-![preview img](/portfilio-img.png)
+![preview img](/https://github.com/durgeshwagh14/Durgesh-Portfolio/blob/main/img/portfilio-img.png)
 
