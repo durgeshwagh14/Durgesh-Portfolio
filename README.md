@@ -9,7 +9,7 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 ### Technologies Used
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,wasm)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css)
 
 ![preview img](/img/portfilio-img.png)
 
